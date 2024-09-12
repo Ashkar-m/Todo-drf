@@ -1,1 +1,2 @@
 # Todo-drf
+Designed a to-do app using Django Rest Framework (DRF) for the backend and JavaScript for the frontend. The app features task creation, retrieval, updating, and deletion (CRUD operations) through a RESTful API. The Django Rest Framework manages the backend logic and database interactions, while the JavaScript frontend handles user interactions, providing a dynamic and responsive interface for managing tasks in real time. This setup allows seamless communication between the client and server, offering a smooth user experience.
